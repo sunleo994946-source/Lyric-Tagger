@@ -28,7 +28,7 @@ A web-based lyric timing tool for creating subtitle files.
 
 ### Feedback
 
-If you encounter any bugs or errors, please [open an issue](https://github.com/anomalyco/opencode/issues).
+If you encounter any bugs or errors, please [open an issue](https://github.com/sunleo994946-source/Lyric-Tagger/issues).
 
 ---
 
@@ -56,7 +56,7 @@ If you encounter any bugs or errors, please [open an issue](https://github.com/a
 
 ### フィードバック
 
-バグやエラーがある場合は、[GitHub Issues](https://github.com/anomalyco/opencode/issues)で報告してください。
+バグやエラーがある場合は、[GitHub Issues](https://github.com/sunleo994946-source/Lyric-Tagger/issues)で報告してください。
 
 ---
 

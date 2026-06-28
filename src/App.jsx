@@ -408,7 +408,7 @@ function App() {
           {lang === 'zh' ? (
             <strong>1056333285</strong>
           ) : (
-            <a href="https://github.com/anomalyco/opencode/issues" target="_blank" rel="noopener noreferrer">GitHub</a>
+            <a href="https://github.com/sunleo994946-source/Lyric-Tagger/issues" target="_blank" rel="noopener noreferrer">GitHub</a>
           )}
           {t.contactSuffix}
         </p>
